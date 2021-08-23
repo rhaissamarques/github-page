@@ -1,9 +1,8 @@
 import React, { useEffect, useState } from "react"
-import ReactDOM from "react-dom"
 import "./CSS/style.css";
 import axios from "axios"
 import NumberFormat from "react-number-format"
-import { checkPropTypes } from "prop-types";
+
 
 export default Usuarios => {
 
