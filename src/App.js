@@ -7,3 +7,5 @@ ReactDOM.render(
       <index/>
   </div>
 , rootComponet)
+
+export default function App()
