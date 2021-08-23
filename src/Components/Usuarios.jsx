@@ -81,12 +81,6 @@ export default Usuarios => {
         }
     }
 
-    function modalAbrirResultado () {
-        if (valorDinheiro === '1'){
-            setCampoNecessario('flex')
-        }
-    }
-
     //fechar modal
     function modalFecharResultado () {
         setAbrirResultado('none');
