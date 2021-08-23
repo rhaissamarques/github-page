@@ -3,6 +3,7 @@ import "./CSS/style.css";
 import axios from "axios"
 import NumberFormat from "react-number-format"
 
+const Usuarios = () => {}
 
 export default Usuarios => {
 
